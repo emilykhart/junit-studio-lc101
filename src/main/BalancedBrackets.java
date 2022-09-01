@@ -2,6 +2,7 @@ package main;
 
 
 public class BalancedBrackets {
+
     /**
      * The function BalancedBrackets should return true if and only if
      * the input string has a set of "balanced" brackets.
